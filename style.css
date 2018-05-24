@@ -32,6 +32,6 @@
 /* Pay for the project and live with a smile! */
 /* Pay for the project and live with a smile! */
 /* Pay for the project and live with a smile! */
-h1,h2,h3,h4,h5,h6{opacity: 0.2 !important;}
-body{opacity: 0.2 !important;}
-html,#all_wrapper,.container{opacity: 0.2 !important;}
+h1,h2,h3,h4,h5,h6{opacity: 1 !important;}
+body{opacity: 1 !important;}
+html,#all_wrapper,.container{opacity: 1 !important;}
